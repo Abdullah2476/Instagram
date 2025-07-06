@@ -1,0 +1,2 @@
+cd C:\Users\HP\.gradle\wrapper\dists
+rmdir /s /q gradle-8.12-all
